@@ -50,8 +50,8 @@ Stack:
 
 ## :bar_chart: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas67499&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas67499&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Anas87&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Anas87&theme=tokyonight" />
 </p>
 
 ---
