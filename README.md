@@ -5,7 +5,7 @@
 
 
 <h1 align="center">:gem: Md Anas 👩🏻‍💻” Full Stack Developer | Hacker | Gamer :video_game:</h1>
-<p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=435&lines=Hey+I+am+Anas+;Gaming+%26++Hacking+%26+coding+now+starts;With+Github+" alt="Typing SVG" />
   </p>
 
